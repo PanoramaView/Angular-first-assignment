@@ -1,5 +1,10 @@
 # MyAssignment
 
+1. Create two new Components
+2. Output them beneath each other in the AppComponents
+3. Output a warning or success message in the Components
+4. Style the Components appropriately ( text)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
